@@ -20,3 +20,4 @@ It is a java FX project
 ![RUN CONFIG](https://github.com/mustafa-senyuz/MP3-PLAYER/assets/113122475/7219609c-df63-4195-b811-bc94c0b38c85)
 
 ![R2](https://github.com/mustafa-senyuz/MP3-PLAYER/assets/113122475/f884e2a9-9875-46a6-a44f-6ff012a0751b)
+--module-path "C:\Users\musta\OneDrive\Masaüstü\openjfx-20.0.1_windows-x64_bin-sdk\javafx-sdk-20.0.1\lib" --add-modules javafx.controls,javafx.fxml,javafx.media
